@@ -8,5 +8,4 @@
 
 import Foundation
 
-print("Hello, World!")
-
+Day1.solve(with: "day1.txt")
