@@ -9,5 +9,6 @@
 import Foundation
 
 //Day1.solve(with: "day1.txt")
-Day2.solve(with: "day2.txt")
-
+//Day2.solve(with: "day2.txt")
+//Day3.solve(with: "day3.txt")
+Day4.solve(with: "day4.txt")
