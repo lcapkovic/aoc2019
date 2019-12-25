@@ -99,7 +99,7 @@ class Day7: Day {
     }
 }
 
-class IntcodeComp {
+fileprivate class IntcodeComp {
     var memory: [Int]
     
     let code: [Int]
